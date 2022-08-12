@@ -1,0 +1,5 @@
+#written by properties
+#Thu Aug 11 13:35:58 KST 2022
+month=4
+year=2004
+day=21
